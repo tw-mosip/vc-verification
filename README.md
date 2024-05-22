@@ -1,2 +1,2 @@
 # vc-verification
-This repository supports VC verification at server side
+This repository supports Sunbird VC verification at server side
